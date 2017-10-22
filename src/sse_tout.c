@@ -71,6 +71,10 @@ void sse_fold_big_arr(void) {
 }
 
 /**
+ * gdb commands
+ * until LINE
+ * ni
+ * x/[n bytes]tb ADDR
  * @see https://software.intel.com/sites/landingpage/IntrinsicsGuide/#
  * @see https://stackoverflow.com/a/10930706/7519491
  * @return 
